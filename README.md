@@ -1,2 +1,0 @@
-# dappstar-begin
-Begin app
