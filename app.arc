@@ -9,3 +9,9 @@ begin-app
 @static
 folder build
 spa true
+
+@aws
+runtime typescript # sets TS as the the default runtime for your entire project
+
+@plugins
+architect/plugin-typescript
